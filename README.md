@@ -33,6 +33,8 @@ I'll add my works to here!
 
 ### 🌐 Sites
 
-<a href="https;//error0918.github.io/"><img src="https://img.shields.io/badge/Homepage-334499?style=flat&logo=FirefoxBrowser&logoColor=white"/></a>
+<a href="https://error0918.github.io/"><img src="https://img.shields.io/badge/Homepage-334499?style=flat&logo=FirefoxBrowser&logoColor=white"/></a>
+<a href="https://open.kakao.com/me/error"><img src="https://img.shields.io/badge/KakaoTalk%20Open-FAE100?style=flat&logo=KakaoTalk&logoColor=white"/></a>
+<a href="https;//error0918.github.io/"><img src="https://img.shields.io/badge/Homepage-FAE100?style=flat&logo=FirefoxBrowser&logoColor=white"/></a>
 
 </div>
