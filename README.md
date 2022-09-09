@@ -19,6 +19,7 @@ Hello World! It's Taeyeon's Github.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-306897?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%20Sharp-A179DC?style=flat&logo=CSharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E44D26?style=flat&logo=HTML&logoColor=white"/>
 
 <hr>
 
