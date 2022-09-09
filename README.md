@@ -5,6 +5,7 @@
 <div align=center>
 
 ### 👋 Intruduction
+<br>
 
 <img src="https://avatars.githubusercontent.com/u/113190558?v=4" width=200 height=200/>
 
@@ -13,12 +14,14 @@ Hello World! It's Taeyeon's Github.
 <hr>
 
 ### 🪒 Works
+<br>
 
 I'll add my works to here!
 
 <hr>
 
 ### ✏️ Languages!
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=error0918&langs_count=8)](https://github.com/error0918/github-readme-stats)
 
@@ -32,10 +35,11 @@ I'll add my works to here!
 <hr>
 
 ### 🌐 Sites
+<br>
 
 <a href="https://error0918.github.io/"><img src="https://img.shields.io/badge/Homepage-334499?style=flat&logo=FirefoxBrowser&logoColor=white"/></a>
-<a href="https://open.kakao.com/me/error"><img src="https://img.shields.io/badge/KakaoTalk%20Open-FAE100?style=flat&logo=KakaoTalk&logoColor=white"/></a>
+<a href="https://open.kakao.com/me/error"><img src="https://img.shields.io/badge/KakaoTalk-FAE100?style=flat&logo=KakaoTalk&logoColor=white"/></a>
 <a href="https://instagram.com/jtaeyeon05/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://instagram.com/crazy._.taeyeon/"><img src="https://img.shields.io/badge/Instagram%20(exp)-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/crazy._.taeyeon/"><img src="https://img.shields.io/badge/Instagram%20(sub)-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </div>
