@@ -5,10 +5,6 @@ Hello World!, It's Taeyeon's Github. 👋
 
 ---
 
-<form action="https://error0918.github.io/">
-<button style="width: 100%; height: 100%; background; #FF9977;">
-<p>Homepage</p>
-</button>
-</form>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=error0918&langs_count=8)](https://github.com/error0918/github-readme-stats)
 
 [Homepage](https://error0918.github.io/)
