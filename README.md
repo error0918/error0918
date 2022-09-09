@@ -6,6 +6,8 @@
 
 ### 👋 Intruduction
 
+<img src="https://avatars.githubusercontent.com/u/113190558?v=4" width=200 height=200/>
+
 Hello World! It's Taeyeon's Github.
 
 <hr>
