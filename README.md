@@ -22,6 +22,8 @@ I'll add my works to here!
 
 ### ✏️ Languages!
 <br>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=error0918&langs_count=8)](https://github.com/error0918/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-C74634?style=flat&logo=Oracle&logoColor=white"/>
