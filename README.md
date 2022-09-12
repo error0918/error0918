@@ -49,7 +49,7 @@ Hello World! It's Taeyeon's Github.
 <br>
 
 <a href="https://error0918.github.io/"><img src="https://img.shields.io/badge/Homepage-334499?style=flat&logo=FirefoxBrowser&logoColor=white"/></a>
-<a href="https://open.kakao.com/me/error"><img src="https://img.shields.io/badge/KakaoTalk-FAE100?style=flat&logo=KakaoTalk&logoColor=white"/></a>
+<a href="https://open.kakao.com/me/error"><img src="https://img.shields.io/badge/KakaoTalk-FAE100?style=flat&logo=KakaoTalk&logoColor=black"/></a>
 <a href="https://instagram.com/jtaeyeon05/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://instagram.com/crazy._.taeyeon/"><img src="https://img.shields.io/badge/Instagram%20(sub)-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
