@@ -18,13 +18,13 @@ Hello World! It's Taeyeon's Github.
 
 <div align=left>
 
-[Tell❗️](https://github.com/error0918/Tell)
+- [Tell❗️](https://github.com/error0918/Tell)
 
-[SchoolViolenceBreaker](https://github.com/error0918/SchoolViolenceBreaker)
+- [SchoolViolenceBreaker](https://github.com/error0918/SchoolViolenceBreaker)
 
-[Clocky](https://github.com/error0918/Clocky)
+- [Clocky](https://github.com/error0918/Clocky)
 
-[AIDE BASE](https://github.com/error0918/AIDE-Base)
+- [AIDE BASE](https://github.com/error0918/AIDE-Base)
 
 </div>
 
