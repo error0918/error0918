@@ -15,24 +15,6 @@ I am a student developer.
 
 <hr>
 
-### 🪒 Works
-<br>
-
-<div align=left>
-
-- [Tell❗️](https://github.com/error0918/Tell)
-
-- [SchoolViolenceBreaker](https://github.com/error0918/SchoolViolenceBreaker)
-
-- [Clocky](https://github.com/error0918/Clocky)
-
-- [AIDE BASE](https://github.com/error0918/AIDE-Base)
-
-</div>
-
-
-<hr>
-
 ### ✏️ Languages!
 <br>
   
