@@ -6,12 +6,12 @@
     <summary>목차</summary>
     <h6>
         <ul dir="auto">
-            <a href="https://github.com/error0918/error0918/tree/main/#-----About%20Me">
+            <a href="https://github.com/error0918/error0918/tree/main/#-----About-Me">
                 <li>
                     🧐 About Me
                 </li>
             </a>
-            <a href="https://github.com/error0918/error0918/tree/main/#-----Languagese">
+            <a href="https://github.com/error0918/error0918/tree/main/#-----Languages">
                 <li>
                     🆎 Languages
                 </li>
