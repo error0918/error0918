@@ -46,7 +46,8 @@
     </a>
     <br/>
     <a href="https://wakatime.com/@77893c2f-df09-4c31-9dc9-76fc135dd21e">
-        <img src="https://wakatime.com/badge/user/77893c2f-df09-4c31-9dc9-76fc135dd21e.svg?style=flat-square"/>
+        <img src="https://wakatime.com/badge/user/77893c2f-df09-4c31-9dc9-76fc135dd21e.svg?style=flat-square"
+            alt="From 2023/02/08"/>
     </a>
     <br/>
     <br/>
