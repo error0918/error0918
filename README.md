@@ -1,40 +1,126 @@
-<div align=center>
-  
-![header](https://capsule-render.vercel.app/api?type=soft&color=334499&fontColor=FFFFFF&height=300&section=header&text=📚%20Error0918%20📚&desc=정태연%20(jtaeyeon05)&fontSize=60)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&fontSize=70&fontAlignY=40&descAlignY=60&color=gradient&customColorList=20&section=header&text=Error0918&desc=jtaeyeon05"/>
+
+<details>
+    <summary>목차</summary>
+    <h6>
+        <ul dir="auto">
+            <a href="https://github.com/error0918/error0918/tree/main/#-----About%20Me">
+                <li>
+                    🧐 About Me
+                </li>
+            </a>
+            <a href="https://github.com/error0918/error0918/tree/main/#-----Languagese">
+                <li>
+                    🆎 Languages
+                </li>
+            </a>
+            <a href="https://github.com/error0918/error0918/tree/main/#-----WebSites">
+                <li>
+                    🌐 WebSites
+                </li>
+            </a>
+        </ul>
+    </h6>
+</details>
 
 ---
 
-### 👋 Intruduction
-<br>
+<h2>
+    🧐 About Me
+</h2>
 
-<img src="https://avatars.githubusercontent.com/u/113190558?v=4" width=200 height=200/>
+<br/>
 
-Hello World! It's Taeyeon's GitHub.
-
-I am a student developer.
-
-<hr>
-
-### ✏️ Languages!
-<br>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=error0918&langs_count=8)](https://github.com/error0918/github-readme-stats)
-
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-C74634?style=flat&logo=Oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-306897?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%20Sharp-A179DC?style=flat&logo=CSharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E44D26?style=flat&logo=HTML5&logoColor=white"/>
-
-<hr>
-
-### 🌐 Sites
-<br>
-
-<a href="https://error0918.github.io/"><img src="https://img.shields.io/badge/Homepage-334499?style=flat&logo=FirefoxBrowser&logoColor=white"/></a>
-<a href="https://open.kakao.com/me/error"><img src="https://img.shields.io/badge/KakaoTalk-FAE100?style=flat&logo=KakaoTalk&logoColor=black"/></a>
-<a href="https://instagram.com/jtaeyeon05/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://instagram.com/crazy._.taeyeon/"><img src="https://img.shields.io/badge/Instagram%20(sub)-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-
+<div align=center>
+    <a href="https://github.com/error0918?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api?username=error0918&show_icons=false&theme=onedark&hide=issues,contribs"
+            width="350"/>
+    </a>
+    <br/>
+    <a href="https://solved.ac/jtaeyeon05">
+        <img src="http://mazassumnida.wtf/api/generate_badge?boj=jtaeyeon05"
+            width="250"
+            title="Solved.ac 프로필"/>
+    </a>
+    <br/>
+    <br/>
+    학생 개발자 정태연입니다.
+    <br/>
+    주로 안드로이드 분야에서 프로그래밍하고 있습니다.
 </div>
+
+--- 
+
+<h2>
+    🆎 Languages
+</h2>
+
+<br/>
+
+<div align=center>
+    <a href="https://github.com/error0918?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=error0918&langs_count=6&theme=onedark"/>
+    </a>
+    <br/>
+    <br/>
+    <a href="https://kotlinlang.org/">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" 
+            height="25"/> 
+    </a>
+    <a href="https://java.com/">
+        <img src="https://img.shields.io/badge/Java-F80000?style=flat-square&logo=Oracle&logoColor=white"
+            height="25"/>
+    </a>
+    <a href="https://python.org/">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"
+            height="25"/>
+    </a>
+    <br/>
+    <a href="https://scala-lang.org/">
+        <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=Scala&logoColor=white"
+            height="25"/>
+    </a>
+    <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"
+            height="25"/>
+    </a>
+    <a href="https://learn.microsoft.com/ko-kr/dotnet/csharp/">
+        <img src="https://img.shields.io/badge/C%20Sharp-A179DC?style=flat-square&logo=CSharp&logoColor=white"
+            height="25"/>
+    </a>
+    <br/>
+    <br/>
+    다양한 언어를 사용할 수 있도록 노력하고 있습니다. 하나의 언어를 엄청나게 잘 사용하지는 못하지만 여러 분야를 겪어보겠습니다.
+</div>
+
+---
+
+<h2>
+    🌐 WebSites
+</h2>
+
+<br/>
+
+<div align=center>
+    <a href="https://error0918.github.io/">
+        <img src="https://img.shields.io/badge/GitHubIo-334499?style=flat-square&logo=FirefoxBrowser&logoColor=white"
+            height="25"/>
+    </a>
+    <br/>
+    <a href="https://open.kakao.com/me/error">
+        <img src="https://img.shields.io/badge/KakaoTalk-FAE100?style=flat-sqaure&logo=KakaoTalk&logoColor=black"
+            height="25"/>
+    </a>
+    <br/>
+    <a href="https://instagram.com/jtaeyeon05/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"
+            height="25"/>
+    </a>
+    <br/>
+    <a href="https://instagram.com/crazy._.taeyeon/">
+        <img src="https://img.shields.io/badge/Instagram%20(sub)-E4405F?style=flat-square&logo=Instagram&logoColor=white"
+            height="25"/>
+    </a>   
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&descAlignY=80&color=gradient&customColorList=20&section=footer&desc=Copyright%202023.%20jtaeyeon05%20all%20rights%20reserved"/>
