@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&fontSize=70&fontAlignY=40&descAlignY=60&color=gradient&customColorList=20&section=header&text=Error0918&desc=jtaeyeon05"/>
+<div align=center>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=280&fontSize=70&fontAlignY=40&descAlignY=60&color=gradient&customColorList=20&section=header&text=Error0918&desc=jtaeyeon05"/>
+</div>
 
 <details>
     <summary>목차</summary>
@@ -123,4 +125,6 @@
     </a>   
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&descAlignY=80&color=gradient&customColorList=20&section=footer&desc=Copyright%202023.%20jtaeyeon05%20all%20rights%20reserved"/>
+<div align=center>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&descAlignY=80&color=gradient&customColorList=20&section=footer&desc=Copyright%202023.%20jtaeyeon05%20all%20rights%20reserved"/>
+</div>
