@@ -45,6 +45,10 @@
             title="Solved.ac 프로필"/>
     </a>
     <br/>
+    <a href="https://wakatime.com/@77893c2f-df09-4c31-9dc9-76fc135dd21e">
+        <img src="https://wakatime.com/badge/user/77893c2f-df09-4c31-9dc9-76fc135dd21e.svg?style=flat-square"/>
+    </a>
+    <br/>
     <br/>
     학생 개발자 정태연입니다.
     <br/>
