@@ -66,7 +66,7 @@
 
 <div align=center>
     <a href="https://github.com/error0918?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=error0918&langs_count=6&theme=onedark"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=error0918&langs_count=6&theme=onedark&hide=CMake,c%2B%2B"/>
     </a>
     <br/>
     <br/>
