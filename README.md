@@ -123,11 +123,6 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"
             height="25"/>
     </a>
-    <br/>
-    <a href="https://instagram.com/crazy._.taeyeon/">
-        <img src="https://img.shields.io/badge/Instagram%20(sub)-E4405F?style=flat-square&logo=Instagram&logoColor=white"
-            height="25"/>
-    </a>   
 </div>
 
 <div align=center>
