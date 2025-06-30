@@ -13,7 +13,7 @@ Hello, I'm Taeyeon Jeong 🤠
             </td>
             <td>
                 <a href="https://github.com/jteayeon05?tab=repositories">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtaeyeon05&layout=compact&langs_count=6&theme=onedark&hide=CMake,c%2B%2B"/>
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtaeyeon05&layout=compact&theme=onedark&hide=CMake,c%2B%2B&exclude_repo=jtaeyeon05.github.io"/>
                 </a>
             </td>
         </tr>
